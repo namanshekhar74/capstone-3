@@ -1,0 +1,11 @@
+Hello world
+print("enter your name") //this is a single line comment
+/* this
+is
+a
+multiline
+comment*/
+//2nd single line comment
+int a = 10 /* multi multi
+*/
+
